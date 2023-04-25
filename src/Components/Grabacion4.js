@@ -104,7 +104,7 @@ function Grabacion() {
       </div>
       <div className="nav-buttons">
         <Link to="/grabacion3" >Atrás</Link>
-        <Link to="/" style={{ marginLeft: '590px' }}>Siguiente</Link>
+        <Link to="/" style={{ marginLeft: '590px' }}>Terminar</Link>
       </div>
     </>
   );
